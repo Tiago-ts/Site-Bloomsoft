@@ -1,9 +1,6 @@
 
 body {
-	background: url(../imagens/fundo.jpg),
-				url(../imagens/ruido.png),
-			
-	linear-gradient(50deg,#ff4169,#27b10c);
+	background: url(../imagens/fundo.jpg);
 	
 	background-attachment: fixed;
 	font-family: Helvetica,Arial,sans-serif;
@@ -19,7 +16,7 @@ body {
 }
 
 .caixa {
-	padding: 60px 0;
+	padding: 10px 0;
 	border-bottom: 1px solid #e5e5e5;
 }
 
@@ -52,7 +49,7 @@ html, body{
 
 
 #servicos h2, h3{
-	color: #27b10c;
+	color: #1c6e0c;
 }
 
 #recursos{
@@ -133,9 +130,11 @@ nav.navbar-transparente{
 }
 
 .divisor{
+	
 	width: 1px;
 	background: white;
 	margin: 12px 15px; 
+	
 
 }
 
